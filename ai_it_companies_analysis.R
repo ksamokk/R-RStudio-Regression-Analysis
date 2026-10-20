@@ -14,7 +14,7 @@ library(ggplot2)
 library(car)
 library(lmtest)
 
-data <- read_excel(file.choose())
+data <- read_excel("ai_it_companies_data.xlsx", sheet = "Data")
 
 # DATA PREPARATION AND VARIABLE CODING
 data <- data %>%
@@ -171,5 +171,3 @@ vif(vif_h2)
 nobs(model_h2_labor)
 nobs(model_h2_roa)
 nobs(model_h2_capex)
-
-
