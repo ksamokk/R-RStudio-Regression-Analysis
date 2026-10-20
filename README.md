@@ -1,3 +1,6 @@
+**English** | [Русский](README_RU.md)
+
+
 # R / RStudio: AI in Russian IT Companies
 
 ### Econometric Analysis of Managerial AI Integration and Operational Performance
