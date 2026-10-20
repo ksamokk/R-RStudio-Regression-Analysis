@@ -9,6 +9,10 @@
 
 **Authors:** Ekaterina Filimonova and Ksenia Samokhina
 
+### Quick Access to Project Materials
+
+[Research Paper](research_paper.pdf) | [Presentation](research_presentation.pdf) | [R Code](ai_it_companies_analysis.R) | [Excel Dataset](ai_it_companies_data.xlsx)
+
 ## Project Overview
 
 This research examines the relationship between managerial artificial intelligence (AI) integration and the operational performance of large Russian IT companies. It also investigates whether firm size moderates this relationship.
@@ -65,10 +69,3 @@ The repository contains the following project files:
 ## Skills Demonstrated
 
 **Business Analytics · Econometrics · Data Preparation · Regression Analysis · Moderation Analysis · Statistical Diagnostics · R Programming**
-
-## Research Materials
-
-- [R Analysis Script](ai_it_companies_analysis.R)
-- [Research Dataset (Excel)](ai_it_companies_data.xlsx)
-- [Full Research Paper (PDF)](research_paper.pdf)
-- [Defense Presentation (PDF)](research_presentation.pdf)
