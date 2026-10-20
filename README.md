@@ -52,12 +52,18 @@ These results suggest that managerial AI integration does not automatically impr
 
 ## Project Files
 
-The following files will be added to the repository after review for publication:
+The repository contains the following project files:
 
 - `ai_it_companies_analysis.R` — R analysis script
 - `ai_it_companies_data.xlsx` — research dataset
 - `research_paper.pdf` — full academic paper
+- `research_presentation.pdf` — defense presentation
 
 ## Skills Demonstrated
 
 **Business Analytics · Econometrics · Data Preparation · Regression Analysis · Moderation Analysis · Statistical Diagnostics · R Programming**
+
+## Research Materials
+
+- [Full Research Paper (PDF)](research_paper.pdf)
+- [Defense Presentation (PDF)](research_presentation.pdf)
