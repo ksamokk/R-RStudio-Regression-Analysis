@@ -65,5 +65,7 @@ The repository contains the following project files:
 
 ## Research Materials
 
+- [R Analysis Script](ai_it_companies_analysis.R)
+- [Research Dataset (Excel)](ai_it_companies_data.xlsx)
 - [Full Research Paper (PDF)](research_paper.pdf)
 - [Defense Presentation (PDF)](research_presentation.pdf)
